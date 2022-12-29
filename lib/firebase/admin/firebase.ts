@@ -6,7 +6,7 @@ import {
   App,
 } from "firebase-admin/app";
 import { FirebaseApp } from "firebase/app";
-import serviceAccountKey from "./serviceAccountKey.json";
+import serviceAccountKey from "../../../firebase.json";
 
 // const firebaseConfig = {
 //     apiKey: process.env.NEXT_PUBLIC_FIREBASE_API_KEY,
